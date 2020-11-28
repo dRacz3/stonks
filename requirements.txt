@@ -1,0 +1,5 @@
+attrs
+pandas
+pandas_bokeh
+yfinance
+python-exchangeratesapi
